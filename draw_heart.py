@@ -1,0 +1,12 @@
+import turtle as tl
+tl.color('red')
+tl.begin_fill()
+tl.pensize(3)
+tl.left(50)
+tl.forward(113)
+tl.circle(50,200)
+tl.right(140)
+tl.circle(50,200)
+tl.forward(133)
+tl.end_fill()
+x = input()
